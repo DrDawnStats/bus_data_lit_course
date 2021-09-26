@@ -19,11 +19,11 @@ output: html_document
 
 # **Lab Manual**
 
-### *Answering Questions with data: Lab Manual*
+### *Business Data Literacy: Answering Questions with Data*
 
 Every week you will participate in a statistics lab. Here you will learn how to use R and R-studio to solve problems in statistics. You will be following the exercises in this lab manual.
 
-[Psyc 3400 Lab Manual](https://crumplab.github.io/statisticsLab/).
+[Business Data Literacy Lab Manual](https://crumplab.github.io/statisticsLab/).
 
 The web address is [https://crumplab.github.io/statisticsLab/](https://crumplab.github.io/statisticsLab/).
 

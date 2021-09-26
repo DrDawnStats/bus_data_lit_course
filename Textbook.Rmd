@@ -19,7 +19,7 @@ output: html_document
 <div class="row">
 <div class="col-sm-6">
 
-### *Answering Questions with data*
+### *Business Data Literacy: Answering Questions with data*
 
 The textbook for this course is free and open-source, and can be accessedhere:
 

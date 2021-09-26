@@ -1,6 +1,6 @@
-name: "Psyc 3400"
+name: "Business Data Literacy"
 navbar:
-  title: "Psyc 3400"
+  title: "Business Data Literacy"
   left:
     - text: "Home"
       href: index.html

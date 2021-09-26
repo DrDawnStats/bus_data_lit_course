@@ -1,5 +1,5 @@
-# psyc3400
+# Business Data Literacy
 
-Source code for course website: Psyc 3400 Statistics @ Brooklyn College, taught by Matt Crump
+Source code for course website: Business Data Literacy course
 
-[https://crumplab.github.io/psyc3400/](https://crumplab.github.io/psyc3400/)
+[https://drdawnstats.github.io/bus_data_lit_course/](https://drdawnstats.github.io/bus_data_lit_course/)

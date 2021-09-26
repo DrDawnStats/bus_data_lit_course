@@ -16,14 +16,11 @@ output: html_document
 
 </style>
 
-# Psyc 3400 Spring 2019
+# Business Data Literacy Course
 
 <div class="row">
 <div class="col-sm-6">
 
-### *Statistical Methods in Psychological Research* 
-
-#### Matthew Crump
 Last updated: `r Sys.Date()`
 
 All materials are totally **free and open**, including [textbook](https://crumplab.github.io/statistics/), and [lab manual](https://crumplab.github.io/statisticsLab/).
